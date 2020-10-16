@@ -1,0 +1,51 @@
+
+/* 
+    Created on : 06/10/2020, 22:51:04
+    Author     : ander
+*/
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("../Imagens/wallpaper.png");
+	background-size: 100%;
+	
+}
+input{
+   display: block; 
+   height: 30px;
+   width: 250px;
+   margin: 10px 10px 10px 75px;
+   border-radius: 10px;
+   border: 1px solid black;
+   font-size: 12pt;
+   padding: 5px 5px;
+   outline: none;
+   
+}
+
+
+div#tela-login {
+    text-align: center;
+    color: white;
+    font-family: calibri-light;
+    background-color:  #28475d ;
+    width: 400px;
+    height: 300px;
+    margin: 150px auto 0px auto;
+    border-radius: 7px;
+    box-shadow: 10px 5px 5px black;
+    padding: 20px;
+
+}
+a {
+    color:white;
+    text-decoration: none;
+	display: inline;
+	
+}
+a:hover {
+    color:white;
+    text-decoration: underline;
+}
+
+

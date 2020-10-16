@@ -1,0 +1,29 @@
+div#tela-cadastro {
+    text-align: center;
+    color: white;
+    font-family: calibri-light;
+    background-color:#28475d;
+    width: 400px;
+    height: 420px;
+    margin: 125px auto 0px auto;
+    border-radius: 7px;
+    box-shadow: 10px 5px 5px black;
+    padding: 20px;
+    align-items: center;
+    }	
+.msg-sucesso{
+	width: 400px;
+	color: #90ee90;
+	font-family: calibri-light;
+	text-align: center;
+	margin: 10px auto 0px auto;
+	padding: 10px;
+}	
+.msg-erro{
+	width: 400px;
+	color: yellow;
+	font-family: calibri-light;
+	text-align: center;
+	margin: 10px auto 0px auto;
+	padding: 10px;
+}
